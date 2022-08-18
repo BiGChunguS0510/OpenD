@@ -60,4 +60,10 @@ dfx canister call t6rzw-2iaaa-aaaaa-aaama-cai transferOwner '(principal "ryjl3-t
 
 ```
 const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
+
+# OpenD
+
+Created a site similar to https://opensea.io/ to mine sell and trade NFTs
+
+Connected this website to the other repository to trade the NFts in DASH token
 ```
