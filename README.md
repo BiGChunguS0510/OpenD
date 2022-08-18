@@ -67,4 +67,4 @@ const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 
 Created a site similar to https://opensea.io/ to mine sell and trade NFTs
 
-Connected this website to the other repository (token) to trade the NFts in DASH token
+Connected this website to the other repository (token) to trade the NFTs in DASH tokens
